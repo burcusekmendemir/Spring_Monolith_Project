@@ -1,13 +1,13 @@
 ##   SPRING MONOLITHIC WEB APPLICATION
 
-      Bu proje, Spring Framework ve bağlı modüller kullanılarak geliştirilmiş bir monolitik web uygulamasıdır. 
-      Uygulama, bir RESTful API sağlayarak belirli bir iş alanına ilişkin temel operasyonları gerçekleştirir.
+       This project is a monolithic web application developed using Spring Framework and dependent modules.
+       The application performs basic operations for a specific business area by providing a RESTful API.
 
-      Spring Boot Starter Data JPA: Veritabanı işlemleri için JPA (Java Persistence API) kullanımını sağlar.
-      Spring Boot Starter Validation: Giriş doğrulama ve veri doğrulama için Spring Validation API kullanımını sağlar.
-      Spring Boot Starter Web: Web uygulaması geliştirmek için Spring MVC kullanımını sağlar.
-      Springdoc OpenAPI Starter WebMVC UI: OpenAPI belgelendirme aracını sağlar, böylece API'nin dökümantasyonunu otomatik olarak oluşturabilirsiniz.
-      Project Lombok: Java sınıflarının daha sade ve okunabilir olması için otomatik olarak getter, setter, equals, hashCode gibi yöntemleri üretir.
-      PostgreSQL Driver: PostgreSQL veritabanına bağlanmak için JDBC sürücüsü sağlar.
-      Spring Boot Starter Test: Spring uygulamalarını test etmek için gerekli kütüphaneleri içerir.
-      MapStruct: Nesne haritalama işlemleri için kullanılır, böylece DTO'lar arasında veri transferi yapabilirsiniz.
+       Spring Boot Starter Data JPA: Enables the use of JPA (Java Persistence API) for database operations.
+       Spring Boot Starter Validation: Enables the use of Spring Validation API for input validation and data validation.
+       Spring Boot Starter Web: Allows the use of Spring MVC to develop web applications.
+       Springdoc OpenAPI Starter WebMVC UI: Provides the OpenAPI documentation tool, so you can automatically create documentation of the API.
+       Project Lombok: It automatically generates methods such as getter, setter, equals, hashCode to make Java classes simpler and more readable.
+       PostgreSQL Driver: Provides JDBC driver to connect to PostgreSQL database.
+       Spring Boot Starter Test: Contains the necessary libraries to test Spring applications.
+       MapStruct: Used for object mapping operations, so you can transfer data between DTOs.
