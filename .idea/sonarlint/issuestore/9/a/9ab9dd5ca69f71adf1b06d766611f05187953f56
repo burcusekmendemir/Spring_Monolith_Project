@@ -1,0 +1,8 @@
+
+b	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(³š¶½8½‰ğ¡Ù1
+c
+java:S3655"FCall "car.isPresent()" or "!car.isEmpty()" before accessing the value.(İ©éì8£¬¿¢Ù1
+j
+java:S3655&"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.(íáÄìıÿÿÿÿ8£¬¿¢Ù1
+i
+java:S1128"LRemove this unused import 'com.burcu.dto.response.RentingStatusResponseDto'.(êıÒ’8úùúÃÙ1
